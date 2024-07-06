@@ -486,7 +486,7 @@ Implement a function called `wrapAdjective`:
 - It should take as parameter a `String` that will be used to create visual flair.
 - You may call the parameter whatever you like, but its default value should
   be `"*"`.
-- Call example: `const encouragingPromptFunction = wrapAdjective("!!!")`
+- Call example: `)const encouragingPromptFunction = wrapAdjective("!!!"`
 
 Thus a total call should be:
 
